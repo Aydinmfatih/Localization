@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/yBP9aUjcCMrLMfeO21c6jaoy0wmB989ylg8b8Fy3ncQC1xqx7YmnFSQzCT/4QikuFYIzU5WoENCGudUaAcqgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aydin\\source\\repos\\Localization\\Localization\\Localization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aydin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\aydin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aydin\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\aydin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\aydin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\aydin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
